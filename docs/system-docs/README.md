@@ -1,6 +1,6 @@
 # autoresearch 系统文档
 
-> 目标 commit：`7890a85d686308084e2e43c98950d12a0d00ccef`（master tip）
+> 目标 commit：`c9f00ff025fba3eed84c4acfe5f5363d19cbe331`（master tip）
 > 本文档基于仓库真实代码取证，解释系统是什么、怎么用、有哪些规则与约束，不逐文件复述源码。
 
 ## 这是什么

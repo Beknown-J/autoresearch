@@ -80,4 +80,4 @@ depth:            8
 ## 分支约定
 
 - 新实验：`git checkout -b autoresearch/<tag>`（tag 如 `mar5`，须不存在）。
-- 训练/迭代只在 `autoresearch/*` 分支进行；master 为基线（当前 commit `7890a85d686308084e2e43c98950d12a0d00ccef`）。
+- 训练/迭代只在 `autoresearch/*` 分支进行；master 为基线（当前 commit `c9f00ff025fba3eed84c4acfe5f5363d19cbe331`）。
